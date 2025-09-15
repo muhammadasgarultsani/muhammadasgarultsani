@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/0xItsAstral/count.svg?"  />
+  <img src="https://hits.sh/github.com/0xItsAstral.svg"  />
 </div>
 
 ###
